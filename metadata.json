@@ -1,0 +1,6 @@
+{
+  "name": "SewSmart AI",
+  "description": "AI-powered fashion design and sewing assistant for pattern drafting, cutting plans, and garment construction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
